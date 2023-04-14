@@ -29,7 +29,7 @@ body{
 
 .title2{
     color:  orange;
-    margin-left: 15px;
+   
 }
 
 
@@ -89,3 +89,4 @@ body{
 }.carousel-control-prev-icon:hover ,.carousel-control-next-icon:hover{
     transition: 1s;
 }
+
